@@ -1,0 +1,11 @@
+﻿node_modules/
+.env
+.env.*
+!.env.example
+*.log
+frontend_backup_*/
+frontend_before_redesign_*/
+frontend_design_backup_*/
+frontend/index.before-*.html
+frontend/index.encoding-backup.html
+frontend/*.before-*.html
