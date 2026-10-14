@@ -1,5 +1,5 @@
 ﻿/* =========================================
-   STOCKSYS PRO — PROFESSIONAL UI UPGRADE
+   STOCKSYS — PROFESSIONAL UI UPGRADE
    ========================================= */
 
 :root {
@@ -214,3 +214,5 @@ dialog::backdrop {
     transition-duration: .01ms !important;
   }
 }
+
+

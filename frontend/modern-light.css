@@ -1,4 +1,4 @@
-﻿/* STOCKSYS PRO — MODERN LIGHT DESIGN */
+﻿/* STOCKSYS — MODERN LIGHT DESIGN */
 
 :root {
   --modern-bg: #f3f6fb;
@@ -333,3 +333,5 @@ select:focus-visible {
     animation: none !important;
   }
 }
+
+

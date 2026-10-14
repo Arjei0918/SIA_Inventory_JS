@@ -1,6 +1,6 @@
-﻿# StockSys Pro - Inventory Management System
+﻿# StockSys - Inventory Management System
 
-StockSys Pro is an Inventory Management System developed for the System Integration and Architecture (SIA) project.
+StockSys is an Inventory Management System developed for the System Integration and Architecture (SIA) project.
 
 ## Technologies Used
 - HTML, CSS, JavaScript
@@ -52,3 +52,4 @@ Tables:
 ## Developer
 
 Arjei Lacayanga
+
